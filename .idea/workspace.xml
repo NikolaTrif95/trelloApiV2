@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e006258-94f8-4cef-b529-a5a06d607a2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/todogfilter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-build/trelloApiDockerCompose/.env" beforeDir="false" afterPath="$PROJECT_DIR$/docker-build/trelloApiDockerCompose/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,10 +98,22 @@
       <workItem from="1626170363015" duration="38886000" />
       <workItem from="1626255264508" duration="27463000" />
     </task>
+    <task id="LOCAL-00001" summary="readme guide rename">
+      <created>1626293219066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626293219066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme guide rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme guide rename" />
   </component>
   <component name="WindowStateProjectService">
     <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625767082890">
@@ -122,6 +132,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1625839391913" />
+    <state x="249" y="23" key="CommitChangelistDialog2" timestamp="1626293218746">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="249" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1626293218746" />
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1626215270719">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -198,6 +212,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1626261101090" />
+    <state x="240" y="133" key="Vcs.Push.Dialog.v2" timestamp="1626293387186">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="133" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1626293387186" />
     <state x="775" y="246" width="432" height="629" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1626217420232">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>

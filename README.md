@@ -11,9 +11,14 @@ Steps:
 
 1 create .env file in docker-build/trelloApiDockerCompose/.env and put path to workspcace, mine was
 WORKSPACE=/home/ntrifunovic/workspace
+2. Locate to root of the project 
+3. Build Dockerfile
 
-2. docker build . -t myapp
+        docker build . -t myapp
+     If you are running on mac you must use following commands before running docker build:
 
-3. run start.sh
+        export DOCKER_BUILDKIT=0
+        export COMPOSE_DOCKER_CLI_BUILD=0
+4. run start.sh
 
 API was create as original trelo api, with few changes, because of mongodb model relation
