@@ -1,0 +1,33 @@
+{
+  "name": "trx",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint ./",
+    "start": "node init"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-rate-limit": "^5.3.0",
+    "gulp": "^4.0.2",
+    "http-errors": "~1.6.3",
+    "ioredis": "^4.27.6",
+    "jade": "~1.11.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.2",
+    "morgan": "~1.9.1",
+    "prom-client": "^12.0.0",
+    "rate-limit-redis": "^2.1.0",
+    "redis": "^3.1.2",
+    "swagger-stats": "^0.99.2",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3",
+    "winston-mongodb": "^5.0.7"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.1",
+    "eslint": "^7.30.0"
+  }
+}

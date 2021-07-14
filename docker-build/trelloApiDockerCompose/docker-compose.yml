@@ -1,0 +1,29 @@
+
+services:
+  myapp:
+    image: myapp
+    container_name: trelloApi
+    volumes:
+      - ${WORKSPACE}/trx/:/data/project
+    #build: .
+    ports:
+      - "3000:3000"
+  mongodb:
+    image: mongo:latest
+    container_name: trelloMongodb
+    volumes:
+      - ${WORKSPACE}/data/mongo:/data/db
+    logging:
+      driver: none
+    ports:
+        - 27017:27017
+  redis:
+    image: redis:latest
+    container_name: trelloRedis
+    volumes:
+      - ${WORKSPACE}/data/redis:/data
+    ports:
+      - 6379:6379
+    logging:
+      driver: none
+
