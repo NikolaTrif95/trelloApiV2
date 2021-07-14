@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e006258-94f8-4cef-b529-a5a06d607a2f" name="Default Changelist" comment="" />
+    <list default="true" id="8e006258-94f8-4cef-b529-a5a06d607a2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/todogfilter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-build/trelloApiDockerCompose/.env" beforeDir="false" afterPath="$PROJECT_DIR$/docker-build/trelloApiDockerCompose/.env" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -28,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -38,6 +47,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
@@ -116,21 +126,25 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1626215270719" />
-    <state width="1825" height="269" key="GridCell.Tab.0.bottom" timestamp="1626273945508">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom" timestamp="1626293150814">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1626293150814" />
     <state width="1825" height="269" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1626273945508" />
-    <state width="1825" height="269" key="GridCell.Tab.0.center" timestamp="1626273945507">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state width="1238" height="170" key="GridCell.Tab.0.center" timestamp="1626293150812">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1626293150812" />
     <state width="1825" height="269" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1626273945507" />
-    <state width="1825" height="269" key="GridCell.Tab.0.left" timestamp="1626273945506">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state width="1238" height="170" key="GridCell.Tab.0.left" timestamp="1626293150812">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1626293150812" />
     <state width="1825" height="269" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1626273945505" />
-    <state width="1825" height="269" key="GridCell.Tab.0.right" timestamp="1626273945508">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state width="1238" height="170" key="GridCell.Tab.0.right" timestamp="1626293150813">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
+    <state width="1238" height="170" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1626293150813" />
     <state width="1825" height="269" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1626273945508" />
     <state width="1825" height="340" key="GridCell.Tab.1.bottom" timestamp="1626262265469">
       <screen x="72" y="27" width="1848" height="1053" />
